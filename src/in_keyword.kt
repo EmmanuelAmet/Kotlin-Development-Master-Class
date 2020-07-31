@@ -10,6 +10,7 @@ fun main() {
     if(favouritePet !in availablePets){
         println("Not available")
     }else{
-        println("Sorry, $favouritePet available")
+        println("Sorry, $favouritePet " +
+                "available")
     }
 }
