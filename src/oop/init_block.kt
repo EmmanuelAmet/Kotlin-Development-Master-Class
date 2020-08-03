@@ -4,9 +4,10 @@ fun main() {
     var theCar = TheCar()
     val os = OS("Kali")
     val webBrowser = WebBrowser()
+
 }
 
-class WebBrowser(){
+class WebBrowser{
     init {
         println("Web browser is connecting...")
         println("loading http://www.google.com/")
