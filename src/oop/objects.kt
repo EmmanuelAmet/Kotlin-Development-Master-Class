@@ -1,4 +1,4 @@
-package OOP
+package oop
 
 fun main() {
     val myCar:Car2 = Car2()
