@@ -11,7 +11,7 @@ fun main() {
     mom.say("hi")
     daughter.say("hi")
     mom.say(4)
-    mom.say("Hello",564)
+    mom.say("Hello",12)
 }
 
 open class MyMom{
