@@ -9,7 +9,7 @@ Complete Kotlin Development  Master Class for Novice, Proficient and Advance dev
 -List and ArrayList
 -Set and HashSet
 -Map and HashMap
--Flow COntrol
+-Flow Control
 -If Conditional
 -Expression
 -When Conditional
