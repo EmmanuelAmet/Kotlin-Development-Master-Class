@@ -1,5 +1,6 @@
 # Kotlin-Development-Master-Class
 Complete Kotlin Development  Master Class for Novice, Proficient and Advance developers (beginner to Advanced).
+THIS COURSE FOCUSES ON THE FOLLOWING:
 -Variable and Strings
 -User Input
 -Operators and Boolean
